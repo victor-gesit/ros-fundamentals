@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="exercise_10_3" type="publisher.py" name="topic_publisher" output="screen"> </node> 
+    <node pkg="exercise_10_3" type="subscriber.py" name="topic_subscriber" output="screen"> </node>
+</launch>

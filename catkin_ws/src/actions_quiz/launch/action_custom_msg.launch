@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="actions_quiz" type="my_script.py" name="custom_action_node" output="screen">
+    </node>
+</launch>

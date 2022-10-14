@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="ex31" type="simple_topic_publisher.py" name="simpleTopicPub" output="screen">
+    </node>
+</launch>
